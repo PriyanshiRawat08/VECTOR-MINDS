@@ -26,12 +26,16 @@ This challenge involved processing and understanding 150K+ product data points, 
 ## 💻 Project Structure
 
 
-.
 ├── Image Extraction Code.ipynb     # Handles image data processing and feature extraction
+
 ├── Text Extraction code.ipynb    # Handles text preprocessing and model training on textual data
+
 ├── train.csv                     # Training dataset
+
 ├── test.csv                      # Testing dataset
+
 ├── test_out_lgb.csv              # Predictions from text model
+
 └── submission_final.csv          # Final combined multi-modal predictions
 
 ---
